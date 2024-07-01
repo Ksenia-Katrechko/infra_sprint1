@@ -2,4 +2,4 @@ IP: 158.160.27.56;
 name_taski: http://kotletka.sytes.net;
 name_kittygram: http://kittygram2.sytes.net;
 login: Superuser;
-password: Suniamunia1$
+password: Suniamunia1$;
