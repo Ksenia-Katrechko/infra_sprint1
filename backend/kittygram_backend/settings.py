@@ -8,7 +8,7 @@ SECRET_KEY = os.getenv('TOKEN', 'SECRET')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['158.160.27.56', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['158.160.27.56', '127.0.0.1', 'localhost', 'kittygram2.sytes.net']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
